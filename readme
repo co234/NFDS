@@ -1,0 +1,5 @@
+How to run the code:
+./run.sh 
+
+About the dataset:
+We add the code we process the lfwa_w dataset in the dataset/lfwa_w folder. 
